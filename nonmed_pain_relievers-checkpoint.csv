@@ -1,0 +1,466 @@
+state,substate,small_area_est
+Total United States,Total United States,4.31
+Northeast,Northeast,3.82
+Midwest,Midwest,4.21
+South,South,4.30
+West,West,4.78
+Alabama,Alabama,5.24
+Alabama,Region 1,4.88
+Alabama,Region 2,5.62
+Alabama,Region 3,5.12
+Alabama,Region 4,5.27
+Alaska,Alaska,4.72
+Alaska,Anchorage,5.02
+Alaska,Northern,4.61
+Alaska,South Central,4.58
+Alaska,Southeast,4.15
+Arizona,Arizona,5.18
+Arizona,Maricopa,5.37
+Arizona,Pima,5.09
+Arizona,Rural North,4.87
+Arizona,Rural South,4.67
+Arkansas,Arkansas,5.21
+Arkansas,Catchment Area 1,5.06
+Arkansas,Catchment Area 2,4.83
+Arkansas,Catchment Area 3,5.64
+Arkansas,Catchment Area 4,5.25
+Arkansas,Catchment Area 5,5.56
+Arkansas,Catchment Area 6,5.18
+Arkansas,Catchment Area 7,5.05
+Arkansas,Catchment Area 8,5.08
+California,California,4.76
+California,Region 1R,5.26
+California,Region 2R,5.23
+California,Region 3R (Sacramento),4.78
+California,Region 4R,4.66
+California,Region 5R (San Francisco),4.76
+California,Region 6 (Santa Clara),4.36
+California,Region 7R (Contra Costa),4.54
+California,Region 8R (Alameda),4.56
+California,Region 9R (San Mateo),4.28
+California,Region 10,4.93
+California,Region 11 (Los Angeles),4.72
+California,LA SPA 1 and 5,4.92
+California,LA SPA 2,4.76
+California,LA SPA 3,4.23
+California,LA SPA 4,4.81
+California,LA SPA 6,5.49
+California,LA SPA 7,4.76
+California,LA SPA 8,4.49
+California,Region 12R,4.67
+California,Regions 13 and 19R,4.84
+California,Region 14 (Orange),4.38
+California,Region 15R (Fresno),5.11
+California,Region 16R (San Diego),4.93
+California,Region 17R,4.88
+California,Region 18R (San Bernardino),4.80
+California,Region 20R,5.08
+California,Region 21R,5.19
+Colorado,Colorado,5.03
+Colorado,Region 1,5.89
+Colorado,Regions 2 and 7,4.99
+Colorado,Region 3,4.73
+Colorado,Region 4,4.58
+Colorado,Regions 5 and 6,4.84
+Connecticut,Connecticut,3.55
+Connecticut,Eastern,3.93
+Connecticut,North Central,3.79
+Connecticut,Northwestern,3.26
+Connecticut,South Central,3.44
+Connecticut,Southwest,3.36
+Delaware,Delaware,4.70
+Delaware,Kent,4.77
+Delaware,New Castle (excluding Wilmington City),4.85
+Delaware,Sussex,4.30
+Delaware,Wilmington City,4.73
+District of Columbia,District of Columbia,4.13
+District of Columbia,Ward 1,4.62
+District of Columbia,Ward 2,5.06
+District of Columbia,Ward 3,4.05
+District of Columbia,Ward 4,3.45
+District of Columbia,Ward 5,4.06
+District of Columbia,Ward 6,4.10
+District of Columbia,Ward 7,3.67
+District of Columbia,Ward 8,3.90
+Florida,Florida,3.47
+Florida,Broward (Circuit 17),3.42
+Florida,Central I,3.61
+Florida,Circuit 9,3.71
+Florida,Circuit 18,3.47
+Florida,Central II,3.45
+Florida,Circuit 6,3.37
+Florida,Circuit 10,3.55
+Florida,Circuit 12,3.06
+Florida,Circuit 13 (Hillsborough),3.67
+Florida,Circuit 20,3.50
+Florida,Northeast,3.60
+Florida,Circuit 4,3.62
+Florida,Circuit 5,3.19
+Florida,Circuit 7,3.50
+Florida,"Circuit 8 plus Columbia, Dixie, Hamilton, Lafayette, and Suwannee",4.55
+Florida,Northwest,4.12
+Florida,Circuit 1,4.01
+Florida,Circuit 2 plus Madison and Taylor,4.42
+Florida,Circuit 14,3.96
+Florida,South (Circuits 11 and 16),2.95
+Florida,Southeast,3.40
+Florida,Circuit 15 (Palm Beach),3.41
+Florida,Circuit 19,3.38
+Georgia,Georgia,4.47
+Georgia,Region 1,4.49
+Georgia,Region 2,4.96
+Georgia,Region 3,4.18
+Georgia,Region 4,4.59
+Georgia,Region 5,4.77
+Georgia,Region 6,4.30
+Hawaii,Hawaii,4.64
+Hawaii,Hawaii Island,4.37
+Hawaii,Honolulu,4.73
+Hawaii,Kauai,4.26
+Hawaii,Maui,4.57
+Idaho,Idaho,4.29
+Idaho,Region 1,3.88
+Idaho,Region 2,4.26
+Idaho,Region 3,4.05
+Idaho,Region 4,4.72
+Idaho,Region 5,3.98
+Idaho,Region 6,4.56
+Idaho,Region 7,4.21
+Illinois,Illinois,3.59
+Illinois,Region I (Cook),3.47
+Illinois,Region II,3.57
+Illinois,Region III,3.96
+Illinois,Region IV,3.56
+Illinois,Region V,3.74
+Indiana,Indiana,4.98
+Indiana,Central,5.08
+Indiana,East,5.14
+Indiana,North Central,4.70
+Indiana,Northeast,4.87
+Indiana,Northwest,4.93
+Indiana,Southeast,4.91
+Indiana,Southwest,4.62
+Indiana,West,5.46
+Iowa,Iowa,3.76
+Iowa,Central,3.61
+Iowa,North Central,3.98
+Iowa,Northeast,3.83
+Iowa,Northwest,3.65
+Iowa,Southeast,3.88
+Iowa,Southwest,3.50
+Kansas,Kansas,4.03
+Kansas,Kansas City Metro,4.06
+Kansas,Northeast,4.09
+Kansas,South Central,3.91
+Kansas,Southeast,4.25
+Kansas,West,3.85
+Kansas,Wichita (Sedgwick),4.02
+Kentucky,Kentucky,4.31
+Kentucky,"Adanta, Cumberland River, and Lifeskills",4.11
+Kentucky,"Bluegrass, Comprehend, and North Key",4.53
+Kentucky,Communicare and River Valley,4.15
+Kentucky,Four Rivers and Pennyroyal,4.07
+Kentucky,"Kentucky River, Mountain, and Pathways",4.15
+Kentucky,Seven Counties,4.43
+Louisiana,Louisiana,4.79
+Louisiana,Regions 1 and 10,4.61
+Louisiana,Region 1,4.63
+Louisiana,Region 10 (Jefferson),4.60
+Louisiana,Regions 2 and 9,5.30
+Louisiana,Region 3,4.70
+Louisiana,"Regions 4, 5, and 6",4.59
+Louisiana,Regions 7 and 8,4.56
+Maine,Maine,3.59
+Maine,Aroostook/Downeast,3.41
+Maine,Aroostook,3.35
+Maine,Downeast,3.46
+Maine,Central,3.63
+Maine,Cumberland,3.55
+Maine,Midcoast,3.18
+Maine,Penquis,3.83
+Maine,Western,3.87
+Maine,York,3.55
+Maryland,Maryland,4.07
+Maryland,Anne Arundel,4.14
+Maryland,Baltimore City,4.60
+Maryland,Baltimore County,4.26
+Maryland,Montgomery,3.70
+Maryland,North Central,3.75
+Maryland,Northeast,4.18
+Maryland,Prince George's,3.96
+Maryland,South,4.12
+Maryland,West,4.12
+Massachusetts,Massachusetts,3.49
+Massachusetts,Boston,4.15
+Massachusetts,Central,3.67
+Massachusetts,Metrowest,3.26
+Massachusetts,Northeast,3.29
+Massachusetts,Southeast,3.40
+Massachusetts,Western,3.55
+Michigan,Michigan,4.36
+Michigan,Region 1,3.96
+Michigan,Region 2,3.68
+Michigan,Region 3,4.34
+Michigan,Region 4,4.41
+Michigan,Region 5,4.74
+Michigan,Region 6,4.12
+Michigan,Region 7,4.37
+Michigan,Region 8,4.07
+Michigan,Region 9,4.40
+Michigan,Region 10,4.76
+Minnesota,Minnesota,3.41
+Minnesota,Regions 1 and 2,3.47
+Minnesota,Regions 3 and 4,3.50
+Minnesota,Regions 5 and 6,3.43
+Minnesota,Region 7A (Hennepin),3.19
+Minnesota,Region 7B (Ramsey),3.69
+Minnesota,Region 7C,3.37
+Mississippi,Mississippi,4.76
+Mississippi,Region 1,5.22
+Mississippi,Region 2,4.73
+Mississippi,Region 3,4.58
+Mississippi,Region 4,4.48
+Mississippi,Region 5,4.54
+Mississippi,Region 6,4.75
+Mississippi,Region 7,4.67
+Missouri,Missouri,4.21
+Missouri,Central,4.51
+Missouri,Eastern,4.04
+Missouri,Eastern (St. Louis City and County),3.92
+Missouri,Eastern (excluding St. Louis),4.26
+Missouri,Northwest,4.14
+Missouri,Northwest (Jackson),4.02
+Missouri,Northwest (excluding Jackson),4.25
+Missouri,Southeast,4.32
+Missouri,Southwest,4.32
+Montana,Montana,3.46
+Montana,Region 1,3.17
+Montana,Region 2,3.46
+Montana,Region 3,3.29
+Montana,Region 4,3.64
+Montana,Region 5,3.50
+Nebraska,Nebraska,3.61
+Nebraska,Regions 1 and 2,3.59
+Nebraska,Region 1,3.48
+Nebraska,Region 2,3.69
+Nebraska,Region 3,3.46
+Nebraska,Region 4,3.47
+Nebraska,Region 5,3.73
+Nebraska,Region 6,3.62
+Nevada,Nevada,5.20
+Nevada,Clark - Region 1,5.37
+Nevada,Region 3,4.71
+Nevada,Capital District,4.56
+Nevada,Rural/Frontier,4.84
+Nevada,Washoe - Region 2,4.83
+New Hampshire,New Hampshire,4.32
+New Hampshire,Central,4.44
+New Hampshire,Central 1,4.57
+New Hampshire,Central 2,4.32
+New Hampshire,Northern,4.11
+New Hampshire,Southern,4.30
+New Hampshire,Southern 1 (Rockingham),4.02
+New Hampshire,Southern 2,4.47
+New Jersey,New Jersey,3.92
+New Jersey,Central,4.05
+New Jersey,Metropolitan,3.58
+New Jersey,Northern,4.00
+New Jersey,Southern,4.02
+New Mexico,New Mexico,4.84
+New Mexico,Region 1,4.44
+New Mexico,Region 2,4.37
+New Mexico,Region 3 (Bernalillo),5.07
+New Mexico,Region 4,4.99
+New Mexico,Region 5,5.12
+New York,New York,3.87
+New York,Region A,3.83
+New York,Region 1,3.84
+New York,Region 2,3.93
+New York,Region 3,4.27
+New York,Region 4,3.38
+New York,Region B,3.72
+New York,Region 5,3.73
+New York,Region 6,3.52
+New York,Region 7,3.98
+New York,Region C,4.02
+New York,Region 8,3.91
+New York,Region 9,3.88
+New York,Region 10,4.42
+New York,Region 11,3.99
+New York,Region 12,4.09
+New York,Region D,4.10
+New York,Region 13,3.86
+New York,Region 14,4.11
+New York,Region 15,4.29
+North Carolina,North Carolina,4.57
+North Carolina,Alliance Behavioral Healthcare 1,4.61
+North Carolina,Alliance Behavioral Healthcare 2,4.14
+North Carolina,Cardinal Innovations Healthcare Solutions 1,4.35
+North Carolina,Cardinal Innovations Healthcare Solutions 2,4.55
+North Carolina,Cardinal Innovations Healthcare Solutions 3,4.55
+North Carolina,CenterPoint Human Services,4.40
+North Carolina,Eastpointe,4.42
+North Carolina,Partners Behavioral Health Management,5.06
+North Carolina,Sandhills Center 1,4.32
+North Carolina,Sandhills Center 2,4.70
+North Carolina,Smoky Mountain Center 1,4.43
+North Carolina,Smoky Mountain Center 2,4.86
+North Carolina,Trillium Healthcare Resources 1,4.66
+North Carolina,Trillium Healthcare Resources 2,4.99
+North Dakota,North Dakota,3.69
+North Dakota,Badlands and West Central,3.54
+North Dakota,Lake Region,3.00
+North Dakota,North Central,3.80
+North Dakota,Northeast,4.21
+North Dakota,Northwest,3.66
+North Dakota,South Central,3.51
+North Dakota,Southeast,3.76
+Ohio,Ohio,4.98
+Ohio,"Boards 2, 46, 55, and 68",4.87
+Ohio,"Boards 3, 52, and 85",4.98
+Ohio,Boards 4 and 78,5.27
+Ohio,Boards 5 and 60,5.80
+Ohio,"Boards 7, 15, 41, 79, and 84",4.98
+Ohio,"Boards 8, 13, and 83",4.73
+Ohio,Board 9 (Butler),5.15
+Ohio,Board 12,5.07
+Ohio,Boards 18 and 47,4.60
+Ohio,"Boards 20, 32, 54, and 69",4.39
+Ohio,"Boards 21, 39, 51, 70, and 80",4.93
+Ohio,"Boards 22, 74, and 87",4.76
+Ohio,Boards 23 and 45,4.62
+Ohio,Board 25 (Franklin),5.58
+Ohio,"Boards 27, 71, and 73",5.41
+Ohio,"Boards 28, 43, and 67",5.02
+Ohio,Board 31 (Hamilton),4.76
+Ohio,Board 48 (Lucas),5.15
+Ohio,Boards 50 and 76,4.83
+Ohio,Board 57 (Montgomery),5.10
+Ohio,Board 77 (Summit),4.82
+Oklahoma,Oklahoma,5.31
+Oklahoma,Central,5.65
+Oklahoma,East Central,4.88
+Oklahoma,Northeast,4.96
+Oklahoma,Northwest and Southwest,5.76
+Oklahoma,Oklahoma County,5.18
+Oklahoma,Southeast,5.11
+Oklahoma,Tulsa County,5.55
+Oregon,Oregon,5.10
+Oregon,Region 1 (Multnomah),5.53
+Oregon,Region 2,4.83
+Oregon,Region 3,5.18
+Oregon,Region 4,5.01
+Oregon,Region 5 (Central),4.90
+Oregon,Region 6 (Eastern),4.76
+Pennsylvania,Pennsylvania,3.87
+Pennsylvania,Region 1 (Allegheny),4.21
+Pennsylvania,"Regions 3, 8, 9, and 51",4.08
+Pennsylvania,"Regions 4, 11, 37, and 49",3.77
+Pennsylvania,"Regions 5, 18, 23, 24, and 46",3.42
+Pennsylvania,"Regions 6, 12, 16, 31, 35, 45, and 47",3.91
+Pennsylvania,"Regions 7, 13, 20, and 33",3.66
+Pennsylvania,"Regions 10, 15, 27, 32, 43, and 44",3.47
+Pennsylvania,Regions 17 and 21,4.01
+Pennsylvania,"Regions 19, 26, 28, and 42",3.61
+Pennsylvania,"Regions 22, 38, 40, 41, and 48",3.46
+Pennsylvania,Regions 29 and 34,4.06
+Pennsylvania,Regions 30 and 50,3.96
+Pennsylvania,Region 36 (Philadelphia),4.57
+Rhode Island,Rhode Island,4.57
+Rhode Island,Bristol and Newport,4.34
+Rhode Island,Kent,4.06
+Rhode Island,Providence,4.78
+Rhode Island,Washington,4.45
+South Carolina,South Carolina,4.35
+South Carolina,Region 1,4.31
+South Carolina,Region 2,4.46
+South Carolina,Region 3,4.19
+South Carolina,Region 4,4.40
+South Dakota,South Dakota,3.50
+South Dakota,Region 1,3.26
+South Dakota,Region 2,3.30
+South Dakota,Region 3,3.55
+South Dakota,Region 4,3.73
+South Dakota,Region 5,3.60
+Tennessee,Tennessee,4.18
+Tennessee,Region 1,4.19
+Tennessee,Region 2,4.23
+Tennessee,Region 3,3.97
+Tennessee,Region 4 (Davidson),4.38
+Tennessee,Region 5,4.26
+Tennessee,Region 6,4.01
+Tennessee,Region 7 (Shelby),4.19
+Texas,Texas,4.19
+Texas,Region 1,4.50
+Texas,Region 2,4.39
+Texas,Region 3,4.10
+Texas,Region 3a,4.05
+Texas,Region 3bc,4.19
+Texas,Region 4,4.07
+Texas,Region 5,4.17
+Texas,Region 6,3.92
+Texas,Region 6a,3.91
+Texas,Region 6bc,4.05
+Texas,Region 7,4.65
+Texas,Region 7a,4.70
+Texas,Region 7bcd,4.55
+Texas,Region 8,4.52
+Texas,Region 9,4.39
+Texas,Region 10,4.10
+Texas,Region 11,4.02
+Texas,Region 11abd,4.03
+Texas,Region 11c (Hidalgo),4.00
+Utah,Utah,4.06
+Utah,"Bear River, Northeastern, Summit, Tooele, and Wasatch",3.91
+Utah,"Central, Four Corners, San Juan, and Southwest",4.02
+Utah,Davis County,4.03
+Utah,Salt Lake County,3.88
+Utah,Utah County,4.38
+Utah,"Weber, Morgan",4.43
+Vermont,Vermont,3.49
+Vermont,Champlain Valley,3.66
+Vermont,Rural Northeast,3.39
+Vermont,Rural Southeast,3.32
+Vermont,Rural Southwest,3.41
+Virginia,Virginia,4.61
+Virginia,Region 1,5.08
+Virginia,Region 2,4.27
+Virginia,Region 3,4.47
+Virginia,Region 4,4.97
+Virginia,Region 5,4.56
+Washington,Washington,4.68
+Washington,Region 1,4.57
+Washington,Greater Columbia and North Central,4.50
+Washington,Spokane,4.68
+Washington,Region 2,4.75
+Washington,King,4.67
+Washington,North Sound,4.89
+Washington,Region 3,4.66
+Washington,Peninsula,4.65
+Washington,Pierce,4.76
+Washington,SW WA and Timberlands,4.60
+Washington,Thurston-Mason,4.57
+West Virginia,West Virginia,3.89
+West Virginia,Region I,3.70
+West Virginia,Region II,3.95
+West Virginia,Region III,3.82
+West Virginia,Region IV,4.26
+West Virginia,Region V,3.72
+West Virginia,Region VI,3.81
+Wisconsin,Wisconsin,4.38
+Wisconsin,Milwaukee,5.02
+Wisconsin,Northeastern,4.08
+Wisconsin,Northern,4.06
+Wisconsin,Southeastern,4.35
+Wisconsin,Southern,4.30
+Wisconsin,Western,4.44
+Wyoming,Wyoming,3.58
+Wyoming,Judicial District 1 (Laramie),3.33
+Wyoming,Judicial District 2,4.52
+Wyoming,Judicial District 3,3.38
+Wyoming,Judicial District 4,3.39
+Wyoming,Judicial District 5,3.26
+Wyoming,Judicial District 6,3.73
+Wyoming,Judicial District 7 (Natrona),3.87
+Wyoming,Judicial District 8,3.37
+Wyoming,Judicial District 9,3.42
